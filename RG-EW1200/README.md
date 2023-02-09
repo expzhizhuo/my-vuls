@@ -14,7 +14,7 @@
 
 # Overview
 
-A `command injection vulnerability` exists in `Ruijie Networks RG-EW1200 Wireless Routers`. Successful exploit could allow the attacker to execute arbitrary commands on remote devices.
+`Ruijie Networks RG-EW1200 Wireless Routers EW_3.0(1)B11P204` was discovered to contain a `command injection vulnerability` via the `params.path` parameter in the `upgradeConfirm` function of `system.lua`. Successful exploit could allow the attacker to execute arbitrary commands on remote devices.
 
 # Vulnerability details
 
