@@ -2,7 +2,11 @@
 
 **Vendor of the products:**    LB-LINK
 
-**Vendor's website:**    [https://www.lb-link.cn](https://www.lb-link.cn "https://www.lb-link.cn")
+**Vendor's website:**
+
+[https://www.lb-link.cn (Global)](https://www.lb-link.cn "https://www.lb-link.cn")
+
+[https://www.b-link.net.cn (China)](https://www.b-link.net.cn "https://www.b-link.net.cn")
 
 **Reported by:**    WangJincheng(<wjcwinmt@outlook.com>) & ShaLetian(<ltsha@njupt.edu.cn>)
 
