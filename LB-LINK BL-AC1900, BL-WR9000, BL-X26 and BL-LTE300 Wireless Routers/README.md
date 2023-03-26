@@ -1,3 +1,7 @@
+# CVE-ID
+
+[CVE-2023-26801](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-26801 "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-26801")
+
 # Information
 
 **Vendor of the products:**    LB-LINK
