@@ -1,3 +1,7 @@
+# CVE-ID
+
+[CVE-2023-26800](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-26800 "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-26800")
+
 # Information
 
 **Vendor of the products:**    Ruijie Networks
